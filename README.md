@@ -28,7 +28,7 @@ java -cp .\target\Mainex-1.0-SNAPSHOT.jar org.example.Main
 Members of the team
 
 ```
-it202011 Άγγελος Γεωργόπουλος
 it2022054 Κωνσταντίνος Λιμνιάτης
 it2022069 Βασίλης Μπασκαϊρόν
 ```
+
